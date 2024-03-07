@@ -4,7 +4,8 @@ Teste técnico do processo seletivo para a vaga de Estágio em Riberão Preto - 
 
 ## Como foi feito?
 
-    Os códigos foram feitos em JavaScript e rodados com NodeJS ( v20.5.1 ). Para executar os arquivos, tenha o Node instalado e rode o comando >node [nome do arquivo.js] na pasta do projeto.
+    Os códigos foram feitos em JavaScript e rodados com NodeJS ( v20.5.1 ).
+    Para executar os arquivos, tenha o Node instalado e rode o comando >node [nome do arquivo.js] na pasta do projeto.
 
 ## Exercicios
 
