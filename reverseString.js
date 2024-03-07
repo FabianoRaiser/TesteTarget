@@ -6,7 +6,7 @@ function reverseString(string) {
     // console.log(strArr); // verificação da string inputada
     let reversedStr = [];
 
-    for(let i = 0; i <= strArr.length; i++) {
+    for(let i = 1; i <= strArr.length; i++) {
         reversedStr.push(strArr[strArr.length - i])
     }
 
